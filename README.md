@@ -1,2 +1,2 @@
-# Java-ContaBanc-ria
+# Java-ContaBancaria
 Projeto Java Orientada a Objeto.
